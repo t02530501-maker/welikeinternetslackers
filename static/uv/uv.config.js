@@ -1,7 +1,7 @@
 /*global Ultraviolet*/
 self.__uv$config = {
     prefix: '/service/',
-    bare: '/bare/',
+    bare: https://wandering-mode-302e.t02530501.workers.dev/,
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/uv/uv.handler.js',
